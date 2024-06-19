@@ -18,7 +18,7 @@ This segment of the course is divided in to three distinct parts. We have HTML/C
 <img style="width: 50%" src="./assets/frontendexplained.jpg">
 
 ### HTML & CSS, v26
-[HTML & CSS Path](https://app.pluralsight.com/paths/skills/html-and-css)
+[E-Learning - HTML & CSS Path](https://app.pluralsight.com/paths/skills/html-and-css)
 
 [E-Learning - Debugging Sites with Chrome DevTools _(part of the above)_](https://app.pluralsight.com/library/courses/chrome-developer-tools-debugging-sites/table-of-contents)
 
