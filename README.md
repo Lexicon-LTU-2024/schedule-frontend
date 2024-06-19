@@ -18,9 +18,10 @@ This segment of the course is divided in to three distinct parts. We have HTML/C
 <img style="width: 50%" src="./assets/frontendexplained.jpg">
 
 ### HTML & CSS, v26
-[E-Learning - HTML & CSS Path](https://app.pluralsight.com/paths/skills/html-and-css)
 
-[E-Learning - Debugging Sites with Chrome DevTools _(part of the above)_](https://app.pluralsight.com/library/courses/chrome-developer-tools-debugging-sites/table-of-contents)
+- [E-Learning - HTML & CSS Path](https://app.pluralsight.com/paths/skills/html-and-css)
+
+  This is a general path for everything HTML & CSS related. Not mandatory but see it as a complement
 
 - HTML
 
@@ -28,6 +29,7 @@ This segment of the course is divided in to three distinct parts. We have HTML/C
   - Syntax
   - Semantics
   - Most common elements
+  - [E-Learning - HTML and CSS Fundamentals, part 1-3](https://app.pluralsight.com/library/courses/html-css-fundamentals/table-of-contents)
 
 - CSS
 
@@ -37,16 +39,22 @@ This segment of the course is divided in to three distinct parts. We have HTML/C
   - Specificity
   - Basic CSS
   - Flex & Grid
+  - [E-Learning - HTML and CSS Fundamentals, part 4-5](https://app.pluralsight.com/library/courses/html-css-fundamentals/table-of-contents)
 
 - Browser
 
   - The Inspector Tools
-  - 
+  - [E-Learning - Debugging Sites with Chrome DevTools, part 1-5](https://app.pluralsight.com/library/courses/chrome-developer-tools-debugging-sites/table-of-contents)
+
 - Exercises
 
 [Back to top](#schedule-frontend-v26---v33)
 
 ### JavaScript, v27
+
+- [E-Learning - JavaScript Path](https://app.pluralsight.com/paths/skills/html-and-css)
+
+  This is a general path for everything JavaScript related. Not mandatory but see it as a complement
 
 - **1st & 2nd July**
 
@@ -66,9 +74,11 @@ This segment of the course is divided in to three distinct parts. We have HTML/C
   - Event Handling
   - Fetch API
   - Exercises
+  - [E-Learning - JavaScript Fundamentals part 8](https://app.pluralsight.com/library/courses/fundamentals-javascript/table-of-contents)
 
 - React
 
+  - TypeScript
   - Intro React
   - Components
   - Props and useState
