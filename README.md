@@ -20,6 +20,7 @@ This segment of the course is divided in to three distinct parts. We have HTML/C
 ### HTML & CSS, v26
 
 - HTML
+- [HTML & CSS Path](https://app.pluralsight.com/paths/skills/html-and-css)
 
   - HTML Document
   - Syntax
