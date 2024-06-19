@@ -38,6 +38,7 @@ This segment of the course is divided in to three distinct parts. We have HTML/C
 - Browser
 
   - The Inspector Tools
+  - [E-Learning - Debugging Sites with Chrome DevTools](https://app.pluralsight.com/library/courses/chrome-developer-tools-debugging-sites/table-of-contents)
 
 - Exercises
 
