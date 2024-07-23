@@ -81,8 +81,7 @@ This segment of the course is divided in to three distinct parts. We have HTML/C
   - TypeScript
   - Intro React
   - Components
-  - Props and useState
-  - useEffect
+  - Props
   - Exercises
 
 [Back to top](#schedule-frontend-v26---v33)
@@ -95,8 +94,21 @@ You do whatever you want to do!
 
 - Repetition
 - Routing
+- State management
 - Global state management
 - Bigger exercises
+
+#### Week 31
+
+- **Repetition**: Code along with React version of Caffe Retro
+
+- **Lectures**: useState & useRef. Basics and then a code along on a React version of Account Registration
+
+- **Exercises**: Media Player _( UI Only )_, Movie Cards.
+
+#### Week 32
+
+#### Week 33
 
 [Back to top](#schedule-frontend-v26---v33)
 
