@@ -108,6 +108,9 @@ You do whatever you want to do!
 
 #### Week 32
 
+- **Lectures**: React router, Context and useEffect. Basics with code alongs.
+- **Exercises**: Todo List. 
+
 #### Week 33
 
 [Back to top](#schedule-frontend-v26---v33)
